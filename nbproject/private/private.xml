@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/JORGE/Documents/NetBeansProjects/Paintapp/src/db/SVGDAO.java</file>
+            <file>file:/C:/Users/JORGE/Documents/NetBeansProjects/Paintapp/src/model/PoligonoIrregular.java</file>
+            <file>file:/C:/Users/JORGE/Documents/NetBeansProjects/Paintapp/src/model/Circulo.java</file>
+            <file>file:/C:/Users/JORGE/Documents/NetBeansProjects/Paintapp/src/model/Linea.java</file>
+            <file>file:/C:/Users/JORGE/Documents/NetBeansProjects/Paintapp/src/model/PoligonoRegular.java</file>
+            <file>file:/C:/Users/JORGE/Documents/NetBeansProjects/Paintapp/src/model/Punto.java</file>
+            <file>file:/C:/Users/JORGE/Documents/NetBeansProjects/Paintapp/src/paintapp/Paintapp.java</file>
+            <file>file:/C:/Users/JORGE/Documents/NetBeansProjects/Paintapp/src/model/Figura.java</file>
+            <file>file:/C:/Users/JORGE/Documents/NetBeansProjects/Paintapp/src/db/ConexionBD.java</file>
+            <file>file:/C:/Users/JORGE/Documents/NetBeansProjects/Paintapp/src/controller/PaintController.java</file>
+            <file>file:/C:/Users/JORGE/Documents/NetBeansProjects/Paintapp/src/db/FiguraDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
